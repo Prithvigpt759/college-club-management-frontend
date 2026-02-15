@@ -561,4 +561,7 @@ function AnnouncementCard({ announcement, index }: { announcement: Announcements
       </div>
     </motion.div>
   );
+
 }
+// Minor UI update before presentation
+
